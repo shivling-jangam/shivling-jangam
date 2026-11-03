@@ -1,135 +1,49 @@
-# 👋 Hi, I'm Shivling Jangam
+<h1 align="center">Hi there, I'm Shivling Jangam</h1>
 
-### 🛡️ Cybersecurity Learner | SOC & Security Operations | B.Tech AI & ML
+<h3 align="center">Cybersecurity Enthusiast \| Aspiring SOC Analyst \| B.Tech AI & ML Student</h3>
 
-I'm a B.Tech AI & ML student with a growing passion for Cybersecurity and
-Security Operations. I enjoy learning through hands-on practice, security
-labs, projects, and continuous technical exploration.
+## About Me
 
-My current focus is building practical skills in cybersecurity, networking,
-Linux, Python, web security, and SOC operations.
+I'm a third-year B.Tech Artificial Intelligence & Machine Learning student passionate about Cybersecurity and Security Operations.
 
----
+I'm developing practical skills in SOC operations, network security, Linux, Python, SIEM monitoring, log analysis, and threat detection through hands-on labs and continuous learning.
 
-## 🧑‍💻 About Me
+My goal is to become a SOC Analyst and contribute to identifying, investigating, and responding to cybersecurity threats.
 
-- 🎓 B.Tech AI & ML Student
-- 🛡️ Cybersecurity & SOC Enthusiast
-- 🔐 Interested in Security Operations and Defensive Security
-- 🐧 Learning Linux and Networking
-- 🐍 Learning Python for security automation
-- 🌐 Exploring Web Security
-- 🧪 Building hands-on cybersecurity labs and projects
-- 📚 Continuously improving my technical and problem-solving skills
+I believe in continuous learning, practical experience, and building projects that demonstrate real-world skills.
 
----
+- 🔭 I'm currently working on **Building cybersecurity labs and documenting SOC learning projects**
+- 🌱 I'm currently learning **SOC Operations, SIEM, Splunk, Linux, Networking, Python, Threat Detection**
+- 👯 I'm looking to collaborate on **Cybersecurity projects, SOC labs, and beginner-friendly security research**
+- 💬 Ask me about **Cybersecurity Fundamentals, Linux Basics, Networking, and SOC Learning**
+- ⚡ Fun fact: I enjoy learning how security threats work and how SOC teams detect them.
 
-## 🛠️ Technical Skills
+## 🏅 Achievements & Certifications
 
-### 🔐 Cybersecurity
-- Security Operations
-- Network Security
-- Web Security
-- Log Analysis
-- Threat Detection
-- Security Fundamentals
+- GeeksforGeeks Campus Mantri
+- SOC Member Achievement – LetsDefend SOC Fundamentals
+- Network Security Engineer – Skill India Digital Hub (NASSCOM)
 
-### 💻 Programming & Scripting
-- Python
-- Bash
-- Basic Scripting
+## 📫 Open to opportunities
 
-### 🌐 Networking
-- TCP/IP
-- Networking Fundamentals
-- Network Troubleshooting
-- Network Security
+SOC Analyst Intern | Cybersecurity Intern | Security Operations Intern | SOC L1 Trainee
 
-### 🐧 Operating Systems
-- Linux
-- Kali Linux
-- Windows
+## Connect with me
 
-### 🔧 Tools & Technologies
-- Git & GitHub
-- Nmap
-- Wireshark
-- Burp Suite
+<p align="left">
+  <a href="https://www.linkedin.com/in/shivling-jangam-55a37a415/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:jangamshivling001@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-> Currently expanding my skills through hands-on labs and cybersecurity
-> projects.
+## Tech Stack
 
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,react,mysql,mongodb,git,github,vscode,linux&perline=10" alt="Tech stack" />
+</p>
 
-## 📜 Certifications
+## GitHub Stats
 
-### 🏆 Network Security Engineer
-**Skill India Digital Hub — NASSCOM**
-
-📅 Completed: **16 August 2026**
-
-### 🏆 Certifications & Achievements
-
-**SOC Fundamentals – LetsDefend**
-
-- Achievement: SOC Member
-- Platform: LetsDefend
-- Focus: SOC Operations, SIEM, EDR, SOAR, Threat Intelligence, Incident Response
-- Status: Completed
-- [View Achievement](https://app.letsdefend.io/my-rewards/detail/5672092b12e1485eb68d1d7e5879bebf)
----
-
-## 🏆 Achievements
-
-- 🎯 Selected as a **GeeksforGeeks Campus Mantri**
-- 🔐 Earned **Network Security Engineer** certification through
-  Skill India Digital Hub — NASSCOM
-- 🚀 Actively building practical cybersecurity skills through hands-on
-  learning and projects
-
----
-
-## 🚀 Projects
-
-> Currently building and documenting cybersecurity projects.
-
-### 🔐 SOC Log Analysis Lab
-Analyzing security logs to identify suspicious activities, authentication
-anomalies, attack patterns, and potential security incidents.
-
-### 🌐 Network Security Lab
-Hands-on practice with networking concepts, network reconnaissance,
-packet analysis, and security investigation.
-
-### 🐍 Python Security Toolkit
-Developing small Python-based security utilities to strengthen programming
-and security automation skills.
-
-### 🕵️ Web Security Lab
-Learning and documenting web security concepts through authorized
-practice environments.
-
-### 🛡️ SOC Home Lab
-Building a practical security monitoring environment to learn log analysis,
-detection, investigation, and incident-response workflows.
-
----
-
-## 📚 Currently Learning
-
-```text
-Cybersecurity Fundamentals
-        ↓
-Linux & Networking
-        ↓
-Python for Cybersecurity
-        ↓
-Web Security
-        ↓
-SOC Fundamentals
-        ↓
-Log Analysis
-        ↓
-Threat Detection
-        ↓
-Incident Response
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shivling-jangam&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivling-jangam&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
