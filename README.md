@@ -68,6 +68,15 @@ Linux, Python, web security, and SOC operations.
 
 📅 Completed: **16 August 2026**
 
+### 🏆 Certifications & Achievements
+
+**SOC Fundamentals – LetsDefend**
+
+- Achievement: SOC Member
+- Platform: LetsDefend
+- Focus: SOC Operations, SIEM, EDR, SOAR, Threat Intelligence, Incident Response
+- Status: Completed
+- [View Achievement](https://app.letsdefend.io/my-rewards/detail/5672092b12e1485eb68d1d7e5879bebf)
 ---
 
 ## 🏆 Achievements
